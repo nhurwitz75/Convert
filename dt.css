@@ -1,0 +1,20 @@
+html {
+    min-height: 100%;
+    background-color: darkorchid; 
+} 
+a {
+    text-decoration: none; 
+    color: darkturquoise; 
+    font-weight: bold; 
+    border: 8px solid darkturquoise; 
+    border-radius: 30px;
+    font-size: 2em;
+    padding: 1.5em; 
+}
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row; 
+    gap: 3em; 
+}
