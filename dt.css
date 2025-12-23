@@ -8,7 +8,7 @@ a {
     font-weight: bold; 
     border: 8px solid darkturquoise; 
     border-radius: 30px;
-    font-size: 2em;
+    font-size: 2em;  
     padding: 1.5em; 
     height: 5em;
     width: 5em; 
@@ -22,5 +22,6 @@ body {
     align-items: center;
     justify-content: center;
     flex-direction: row; 
-    gap: 3em; 
+    gap: 12em; 
+    margin-top: 10em;  
 }
